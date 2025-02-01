@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Development Application Multiplatform
 - 📫 How to reach me chengzhe17415@gmail.com
 - 😄 Pronouns: He/him
-- ⚡ Languages: I can speak English,Spanish and Chinese.
+- ⚡ Languages: English, Spanish and Chinese.
 
 <!---
 Cheng17415/Cheng17415 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
