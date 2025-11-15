@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Cheng17415
-- 👀 I’m interested in the technology sector, such as repairing phones and programming in java.
-- 🌱 I’m currently learning Development Application Multiplatform
+- 👀 I’m interested in the technology sector, feel free to ask me anython.
+- 🌱 I’m currently learning Development Application Multiplatform (DAM) second year.
 - 📫 How to reach me chengzhe17415@gmail.com
 - 😄 Pronouns: He/him
 - ⚡ Languages: English, Spanish and Chinese.
